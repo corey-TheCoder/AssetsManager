@@ -46,7 +46,7 @@ public class Vehicle extends Asset{
 //        if (age <= 3){
 //            value -= value * (0.03 * age)
 //        } else if (age <= 6) {
-//            value -= * (0.06 * age);
+//            value -= * (0.06 * age);/
 //        } else if (age <= 10) {
 //            value -= value - *0.08 * age);
 //        }else {
